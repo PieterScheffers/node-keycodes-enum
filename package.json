@@ -1,0 +1,23 @@
+{
+  "name": "keycodes-enum",
+  "version": "0.0.1",
+  "description": "Simple enum for keycodes for better readable code",
+  "main": "keycodes-enum.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PieterScheffers/node-keycodes-enum.git"
+  },
+  "keywords": [
+    "keycodes",
+    "enum"
+  ],
+  "author": "pieterscheffers <npm@pieterscheffers.nl> (https://pieterscheffers.nl)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PieterScheffers/node-keycodes-enum/issues"
+  },
+  "homepage": "https://github.com/PieterScheffers/node-keycodes-enum#readme"
+}
