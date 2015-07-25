@@ -2,6 +2,7 @@ var KeyCodes = {
     backspace: 8,
     tab: 9,
     enter: 13,
+    shift: 16,
     ctrl: 17,
     alt: 18,
     pause: 19,
